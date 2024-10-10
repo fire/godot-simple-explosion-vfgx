@@ -2,7 +2,7 @@
 This repository is a fork of GodotSimpleExpolsionVFX by drcd1 (https://github.com/drcd1/GodotSimpleExplosionVFX).
 Original repository works with godot 3.2 but not with godot 4.2. This repository inlcudes the same VFX that works in 4.2
 
-This is a simple version transition that aims only for VFX to work and nothing more.
+This is a simple version transition that aims only for VFX to work and nothing more. I won't be supporting this repo by any means :)
 
 # Godot Explosion VFX
 
