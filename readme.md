@@ -15,8 +15,8 @@ A very simple way to setup realistic explosions in the Godot game engine that re
 - Godot 4.2
   
 ## How to use
-(Parameter names are different, please use try and error approach.)
+(Parameter names are different, please use try and error approach. Parameters might not affect as expected.)
 - Edit properties of the explosion by editing "ExplosionMaterial.tres".
-- Emission Fallof Multiplier and Emission Falloff control how fast the flames disappear.
+- Emission Fallof Multiplier and Emission Falloff control how fast the flames disappear. (Emission Fallof Multiplier can result in visual problems, I keep it at 0.5) 
 - Emission Color Ramp allows to modify the color of the flames.
 - Smoke Color Ramp allows to modify the color of the smoke.
